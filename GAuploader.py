@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Dec 22 17:19:25 2017
-
-@author: leonid.enov
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Fri Dec 22 16:31:30 2017
 
 @author: leonid.enov
